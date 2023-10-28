@@ -11,3 +11,9 @@ girafa2.fome()
 girafa2.andar()
 girafa2.respirar()
 
+filhote = girafa2.reproduzir(girafa)
+
+print(filhote.nome)
+filhote.fome()
+filhote.andar()
+filhote.respirar()
